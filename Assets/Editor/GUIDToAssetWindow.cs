@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 using Object = UnityEngine.Object;
+
 public class GUIDToAssetWindow : EditorWindow
 {
     private string _instanceIDInput;
